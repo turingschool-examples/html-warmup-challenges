@@ -1,4 +1,4 @@
-### HTML Warmup Exercises
+### HTML Warmup Challenges
 
 As a front end developer, it is important to make your HTML structure as clean and as semantic as possible. Creating semantic HTMl not only helps you and your team understand the skeleton of your website, but it also makes your page more accessible as well.  Below you will find a list of review questions on how to structure HTML elements, some exercises using your DevTools, as well as a few layouts to rebuild.
 
