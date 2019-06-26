@@ -7,28 +7,28 @@ As a front end developer, it is important to make your HTML structure as clean a
 Below are a list of questions.  Write the solutions to each question out (yes, with pen and paper).  Practicing writing it out will help you retain the information so that when you need it later, you are more likely to remember!
 
 1. Write an opening and closing article tag. 
-  ```
+  <!-- ```
     <article></article>
-  ```
+  ``` -->
 2. How do you link an external stylesheet to your HTML document? Write the element, its attributes,  and indicate where it should be placed in the markup.
-  ```
+  <!-- ```
     <link href="styles.css"  rel="stylesheet" type ="text/css" />
-  ```
+  ``` -->
 3. Write an article tag with the class of post-content.
-  ```
+  <!-- ```
     <article class="post-content"></article>
-  ```
+  ``` -->
 4. Write an section tag with two classes: day-1 and day-2
-  ```
+  <!-- ```
     <section class="day-1 day-2"></section>
-  ```
+  ``` -->
 5. What are two different methods for creating a submit action in an HTML form?
-  ```
+  <!-- ```
     <input type="submit" />
     <button type="submit"></button>
-  ```
+  ``` -->
 6. How might you create a navigation bar?  Think about how to make it semantic and remember to include hyperlinks.  It should include hyperlinks to `Home`, `About`, `Bio`, and `Contact` pages. (hint: try drawing out a wireframe of the nav bar before writing the tags)
-  ```
+  <!-- ```
     <nav>
       <ul>
         <li><a href="home">Home</a></li>
@@ -37,25 +37,25 @@ Below are a list of questions.  Write the solutions to each question out (yes, w
         <li><a href="contact">Contact</a></li>
       </ul>
     </nav>
-  ```
+  ``` -->
 7. Describe an HTML attribute. What is it? How do you write one? Where is it placed?
-  ```
+  <!-- ```
     An attribute can contain additional values that configure HTML elements and adjust their behavior.  They are included in the opening tag of an HTML element. Some examples can include classes, ids, href, src, etc.  Here is an example below:
 
     <img src="image-file.png">
 
-  ```
+  ``` -->
 8. Refactor this line of code to be more accessible: `<img src="mountain.jpg"/>`
-  ```
+  <!-- ```
     <img src="mountain.jpg" alt="One of the highest peaks in the Rocky Mountains" />
-  ```
+  ``` -->
 9. How do you link your JavaScript code in your HTML file? Write the element and indicate where it should be placed in the markup.
 
-```
+<!-- ```
   <script type="text/javascript" src="main.js"></script>
 
   This should be placed after the body tag to ensure that the Javascript loads after the DOM has finished loading.
-```
+``` -->
 
 #### Practice Your DevTools
 
